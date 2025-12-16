@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "username": "company11",
+      "password": "company123"
+    }
+  ],
+  "sessions": [],
+  "orders": [
+    {
+      "id": "#ORD-9021",
+      "customer": "Sarah Jenkins",
+      "phone": "+1 (555) 123-4567",
+      "amount": 245.99,
+      "status": "Delivered",
+      "date": "Just now",
+      "visibility": "private",
+      "product": "Wireless Handsfree"
+    },
+    {
+      "id": "#ORD-9020",
+      "customer": "Michael Chen",
+      "phone": "+1 (555) 987-6543",
+      "amount": 89.5,
+      "status": "Pending",
+      "date": "5 mins ago",
+      "visibility": "public",
+      "product": "Leather Handbag"
+    },
+    {
+      "id": "#ORD-9019",
+      "customer": "Emma Wilson",
+      "amount": 120,
+      "status": "Shipped",
+      "date": "1 hour ago",
+      "visibility": "private",
+      "product": "Smart Watch"
+    },
+    {
+      "id": "#ORD-9018",
+      "customer": "James Rodriguez",
+      "amount": 450.25,
+      "status": "Delivered",
+      "date": "2 hours ago",
+      "visibility": "public",
+      "product": "Sunglasses"
+    },
+    {
+      "id": "#ORD-9017",
+      "customer": "Lisa Thompson",
+      "amount": 65,
+      "status": "Pending",
+      "date": "3 hours ago",
+      "visibility": "private",
+      "product": "Wireless Handsfree"
+    }
+  ],
+  "chartData": [
+    { "name": "Mon", "conversations": 420, "sales": 2400 },
+    { "name": "Tue", "conversations": 380, "sales": 2100 },
+    { "name": "Wed", "conversations": 550, "sales": 3200 },
+    { "name": "Thu", "conversations": 490, "sales": 2800 },
+    { "name": "Fri", "conversations": 680, "sales": 4100 },
+    { "name": "Sat", "conversations": 720, "sales": 4500 },
+    { "name": "Sun", "conversations": 650, "sales": 3900 }
+  ]
+}
+
